@@ -7,7 +7,7 @@ The app integrates with The Movie Database (TMDb) API to fetch real-time movie d
 
 Live Application
 
-(Add your deployed link here — Vercel / Netlify / GitHub Pages)
+https://j0s3ph12345.github.io/is542_semester_project_movie/
 
 How to Use the App
 - Searching for Movies
